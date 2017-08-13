@@ -1,0 +1,14 @@
+.important {
+	font-size: 18px;
+	color: red;
+	text-align: left;
+}
+
+#subscribe {
+	font-size: 20px;
+	text-align: center;
+}
+
+h1:hover {
+	color: green;
+}
